@@ -12,7 +12,5 @@ index.html - The Index document for the website.
 /vendor - Bootssrap CSS framework, Font, and JavaScript libraries needed for the website to function.
 /css - CSS files for the website.
 
-Screenshots are attached for reference.
-
 Contributor-
 Shubham Chhabra
